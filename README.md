@@ -1,4 +1,4 @@
-# dice.m
+# Roll the dice
 
 My first open code, a horrible Matlab program for calculating the sum of rolling **n dice**. 
 
